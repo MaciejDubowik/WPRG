@@ -1,0 +1,2 @@
+Zadanie 1.1
+Napisz funkcjê zwracaj¹c¹ wynik - symulacjê rzutu kostk¹.
